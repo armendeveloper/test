@@ -1,4 +1,4 @@
-var logFunction = function (message){
+var logFunction1 = function (message){
 	console.log("Barev Armen");
 	console.log(message);
 };
